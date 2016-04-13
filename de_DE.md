@@ -8,3 +8,4 @@ Skelett:
 - Sicherung meiner Daten erstellt, um Datenverlust auszuschließen
 - Veranstalter übernimmt für Datenverlust oder Schäden an der mitgebrachten Hardware keine Haftung
 - Erkläre mich mit den oben genannten Bedinungen einverstanden
+- Ort, Datum, Unterschrift
