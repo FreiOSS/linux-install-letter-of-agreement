@@ -2,10 +2,15 @@
 
 ## Name, Ort und Datum der Veranstaltung
 
-Name:         |
-Ort:          |
-Datum:        |
-Veranstalter: |
+
+Veranstaltungsname: 
+___
+Ort:
+___
+Datum:
+___
+Veranstalter:
+___
 
 ## Datensicherung
 
@@ -21,7 +26,12 @@ Hiermit versichere ich, dass ich die oben genannten Punkte gelesen und verstande
 
 ---
 
-Ort | Datum | Unterschrift | Name in Blockschrift
+Ort & Datum:
+___
+Unterschrift des Teilnehmers:
+___
+Vor- und Zuname des Teilnehmers in Blockschrift:
+___
 
 
-This document is published under the terms of the [CC-SA-BY 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+_This document is published by [FreiOSS.net e. V.](https://freioss.net/) under the terms of the [CC-SA-BY 4.0](https://creativecommons.org/licenses/by-sa/4.0/)_
