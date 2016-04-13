@@ -1,8 +1,6 @@
 # Haftungsausschluss und Einverständniserklärung für die Installation von Linux auf mitgebrachter Hardware
 
-## Name, Ort und Datum der Veranstaltung
-
-
+___
 *Veranstaltungsname:*
 ___
 *Ort:*
@@ -26,7 +24,7 @@ Mir ist bewusst, dass der Veranstalter keine Verantwortung bzw. Haftung im Falle
 
 Hiermit versichere ich, dass ich die oben genannten Punkte gelesen und verstanden habe und mit den genannten Bedinungen einverstanden bin.
 
-
+___
 *Ort & Datum:*
 ___
 *Vor- und Zuname des Teilnehmers in Blockschrift:*
