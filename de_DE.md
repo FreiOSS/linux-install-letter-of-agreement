@@ -1,4 +1,4 @@
-# Einverständniserklärung
+# Haftungsausschluss und Einverständniserklärung für die Installation von Linux auf mitgebrachter Hardware
 
 ## Name, Ort und Datum der Veranstaltung
 
@@ -14,20 +14,22 @@ ___
 
 ## Datensicherung
 
-Ich habe eine Sicherheitskopie meiner Daten erstellt, um diese im Falle eines Datenverlustes wiederherstellen zu können und somit den Verlust wichtiger Informationen zu vermeiden.
+Die Installation eines neuen Betriebsystem kann je nach Kenntnisstand des Installierenden bzw. je nach Art und Weise der Installation dazu führen, dass bestehende Daten verloren gehen.
 
+Ich habe eine Sicherheitskopie meiner Daten erstellt, um diese im Falle eines Datenverlustes wiederherstellen zu können und somit den Verlust wichtiger Informationen zu vermeiden.
 
 ## Haftungsausschluss
 
 Mir ist bewusst, dass der Veranstalter keine Verantwortung bzw. Haftung im Falle von Datenverlust oder Schäden an der von mir mitgebrachten Hardware übernimmt.
 
+## Einverständniserklärung
 
 Hiermit versichere ich, dass ich die oben genannten Punkte gelesen und verstanden habe und mit den genannten Bedinungen einverstanden bin.
 
 
-Ort & Datum:
+Ort & Datum
 ___
-Unterschrift des Teilnehmers:
+Unterschrift des Teilnehmers
 ___
 Vor- und Zuname des Teilnehmers in Blockschrift:
 ___
