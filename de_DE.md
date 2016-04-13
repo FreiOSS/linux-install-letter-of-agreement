@@ -3,13 +3,13 @@
 ## Name, Ort und Datum der Veranstaltung
 
 
-Veranstaltungsname: 
+*Veranstaltungsname:*
 ___
-Ort:
+*Ort:*
 ___
-Datum:
+*Datum:*
 ___
-Veranstalter:
+*Veranstalter:*
 ___
 
 ## Datensicherung
@@ -27,12 +27,12 @@ Mir ist bewusst, dass der Veranstalter keine Verantwortung bzw. Haftung im Falle
 Hiermit versichere ich, dass ich die oben genannten Punkte gelesen und verstanden habe und mit den genannten Bedinungen einverstanden bin.
 
 
-Ort & Datum
+*Ort & Datum:*
 ___
-Unterschrift des Teilnehmers
+*Vor- und Zuname des Teilnehmers in Blockschrift:*
 ___
-Vor- und Zuname des Teilnehmers in Blockschrift:
+*Unterschrift des Teilnehmers:*
 ___
 
 
-_This document is published by [FreiOSS.net e. V.](https://freioss.net/) under the terms of the [CC-SA-BY 4.0](https://creativecommons.org/licenses/by-sa/4.0/)_
+> _This document is published by [FreiOSS.net e. V.](https://freioss.net/) under the terms of the [CC-SA-BY 4.0](https://creativecommons.org/licenses/by-sa/4.0/)_
