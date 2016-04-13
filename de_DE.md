@@ -24,7 +24,6 @@ Mir ist bewusst, dass der Veranstalter keine Verantwortung bzw. Haftung im Falle
 
 Hiermit versichere ich, dass ich die oben genannten Punkte gelesen und verstanden habe und mit den genannten Bedinungen einverstanden bin.
 
----
 
 Ort & Datum:
 ___
